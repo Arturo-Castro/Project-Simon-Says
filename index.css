@@ -1,0 +1,20 @@
+.buttons-container button {
+    width: 200px;
+    height: 200px;
+}
+
+#green-button {
+    background-color: green;
+}
+
+#red-button {
+    background-color: red;
+}
+
+#yellow-button {
+    background-color: yellow;
+}
+
+#blue-button {
+    background-color: blue;
+}
